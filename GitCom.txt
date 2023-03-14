@@ -1,2 +1,5 @@
 git checkout 
 allows user to change between terminal 
+
+git pull
+pulls the most recent version of the branch to the local repo
