@@ -1,0 +1,2 @@
+git checkout 
+allows user to change between terminal 
