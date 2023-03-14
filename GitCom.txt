@@ -3,3 +3,6 @@ allows user to change between terminal
 
 git pull
 pulls the most recent version of the branch to the local repo
+
+git push
+uplaods the latest version of the repo to the remote repo
