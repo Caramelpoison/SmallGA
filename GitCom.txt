@@ -6,3 +6,6 @@ pulls the most recent version of the branch to the local repo
 
 git push
 uplaods the latest version of the repo to the remote repo
+
+git commit
+takes the files that have been added, and "saves" the changes so they are ready to be pushed.
